@@ -240,7 +240,7 @@ body {
   }
 }
 
-@media (max-width:320px){
+@media (max-width:480px){
   .film-wrapper {
     width: auto;
     height: 95vh;
