@@ -45,7 +45,7 @@ function Body() {
         <p className="text">1ª Igreja Presbiteriana Renovada</p>
         <p className="text">No Lugar Do Presente</p>
         <p className="text">Valor Em Pix: 972-112-227.00</p>
-        <p className="text">Confirmar Presença, Até 01/09</p>
+        <p className="text">Presença Terá De Ser Confirmada, Até 01/09</p>
       </div>
     </>
   );

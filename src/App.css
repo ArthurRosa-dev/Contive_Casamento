@@ -17,7 +17,7 @@ body {
   align-items: center;
   opacity: 0;
   z-index: 9999;
-  animation: fadeInOut 4s forwards;
+  animation: fadeInOut 10s forwards;
 }
 
 .overlay-text {
@@ -240,7 +240,7 @@ body {
   }
 }
 
-@media (max-width:320px){
+@media (max-width:640px){
   .film-wrapper {
     width: auto;
     height: 95vh;
