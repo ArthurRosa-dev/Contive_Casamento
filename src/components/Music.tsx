@@ -2,7 +2,7 @@ import simoneMusica from "../assets/music/simone_musica.mp3";
 import { useEffect, useRef } from "react";
 
 function Music() {
-  const audioRef = useRef(null);
+  const audioRef = useRef<HTMLAudioElement>(null);
 
   useEffect(() => {
     const tryPlayAudio = () => {
