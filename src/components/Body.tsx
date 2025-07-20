@@ -1,11 +1,7 @@
 import simone1 from "../assets/img/simone-1.jpg";
 import simone2 from "../assets/img/simone-2.jpg";
-import simone3 from "../assets/img/simone-3.jpg";
-import simone4 from "../assets/img/simone-4.jpg";
-import simone5 from "../assets/img/simone-5.jpg";
-import simone6 from "../assets/img/simone-6.jpg";
 
-const simoneImages = [simone1, simone2, simone3, simone4, simone5, simone6];
+const simoneImages = [simone1, simone2];
 
 function Body() {
   const frames = Array.from({ length: 6 });
@@ -37,9 +33,8 @@ function Body() {
         </div>
       </div>
       <div className="invite">
-        <p className="text" id="nomes">
-          Simone & Valmir
-        </p>
+        <p className="text nomes">Casamento</p>
+        <p className="text nomes">Simone & Valmir</p>
         <p className="text">13/09/25</p>
         <p className="text">Sábado 19:00</p>
         <p className="text">1ª Igreja Presbiteriana Renovada</p>
