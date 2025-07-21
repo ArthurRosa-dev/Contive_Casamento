@@ -218,7 +218,8 @@ body {
   justify-items: center;
     align-items: center;
   border: #D4AF37 double 15px;
-  padding: 30px;
+  padding: 5px;
+  margin: 0;
   z-index: 1;
 }
 
