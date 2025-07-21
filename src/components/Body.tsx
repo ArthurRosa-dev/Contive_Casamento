@@ -37,9 +37,12 @@ function Body() {
         <p className="text nomes">Simone & Valmir</p>
         <p className="text">13/09/25</p>
         <p className="text">Sábado 19:00</p>
-        <p className="text">1ª Igreja Presbiteriana Renovada</p>
+        <p className="text">
+          1ª Igreja Presbiteriana Renovada / Mantenopólis - ES
+        </p>
         <p className="text">No Lugar Do Presente</p>
-        <p className="text">Valor Em Pix: 972-112-227.00</p>
+        <p className="text">Valor Em Pix:</p>
+        <p className="text">972-112-227.00</p>
         <p className="text">Presença Terá De Ser Confirmada, Até 01/09</p>
       </div>
     </>
